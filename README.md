@@ -9,4 +9,5 @@ branch -> badhi branch batave
 log -> pointer batave
 add -> status ma add kare 
 status -> file no status batave
+push-> local mathi repo ma save kare
 
